@@ -1,4 +1,5 @@
-# Bone Health Screening Gaps - Phase 1 – NHANES 2005–2006 
+# Bone Health Project
+# Phase 1 – Treatment Gap - NHANES 2005–2006 
 
 This repository contains a public, reproducible analysis examining gaps in age-based osteoporosis screening using data from the **NHANES 2005–2006** cohort. The analysis focuses on identifying individuals at high bone-health risk who are not captured by current age-based screening criteria.
 
