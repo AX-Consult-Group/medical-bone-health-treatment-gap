@@ -3,7 +3,7 @@
 
 This repository contains a public, reproducible analysis examining gaps in age-based osteoporosis screening using data from the **NHANES 2005–2006** cohort. The analysis focuses on identifying individuals at high bone-health risk who are not captured by current age-based screening criteria.
 
-<img width="3585" height="2381" alt="visual_design_summary" src="https://github.com/user-attachments/assets/d933f546-18e2-4bb6-a5ff-069883574aab" />
+<img width="3585" height="2122" alt="Design Overview Graphic - Phase 1" src="https://github.com/user-attachments/assets/86365444-e5e5-483c-a3ad-cce0cd638d5b" />
 
 ---
 
