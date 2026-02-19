@@ -40,7 +40,7 @@ This analysis used publicly available data from the 2005–2006 National Health 
 
 Multiple NHANES data sets were integrated in this analysis, including demographic information, body measurements, DXA bone density measurements, osteoporosis and fracture history, smoking behavior, and physical activity data. Together, these data sets provide a comprehensive view of bone health, relevant risk factors, and population-level screening patterns across adults.
 
-```{r echo=FALSE}
+```{r}
 # Data was read in, it was a .xpt file
 # Data files are kept in a folder within the project folder called "data" - if replicating do the same for this chunk to run
 bio <- read_xpt("data/DEMO_D.xpt")
